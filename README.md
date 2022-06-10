@@ -1,2 +1,2 @@
 # ghoomana
-Maps adaptable to your adventure!
+Maps adaptable for your adventure!
